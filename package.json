@@ -16,6 +16,7 @@
     "sails-hook-grunt": "^4.0.0",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
+    "sails-mongo": "^1.2.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   },
