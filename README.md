@@ -35,7 +35,7 @@
 - As a traditional user, sometimes i foget my password, I wanna reset it
 - As a traditional user, I want to change my password
 
-### Some user stories 
+### Some user stories
 
 - As a developer, I wanna be able to debug when something is went wrong
 - As a modern user, I wanna use this site offline
@@ -56,3 +56,12 @@ So the best choice to store data for this system is **MongoDB**. Also, can use *
 > WebSite (SSR) + API: should be a popular language and framework to make a SSR website, which support data manipulate with MongoDB, easy to make clean and stunning UI & UX. Also support to build a rapid API with fully documents
 
 > App (SPA) && Admin (SPA): should be a popular language and framework which be able to create both client app and admin fast and reliable.
+
+**Summary**
+
+> Language : NodeJS Typescript
+> Framework : SailsJS
+
+## References:
+
+1. REST API Design Rulebook
